@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammet Enes Gümüş</title>
+  <desc id="desc">Building practical software. Web applications, automation and business tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#122638"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#54E3C2"/><stop offset="1" stop-color="#64AEFF"/></linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M 38 0 L 0 0 0 38" fill="none" stroke="#85B8D0" stroke-opacity=".065"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="22" fill="url(#grid)"/>
+  <rect x="52" y="49" width="30" height="4" rx="2" fill="#54E3C2"/>
+  <text x="95" y="57" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" letter-spacing="3" fill="#A9BED0">MENESGUMUS / DEVELOPER</text>
+  <text x="52" y="138" font-family="DejaVu Sans,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2" fill="#F0F6FC">Muhammet Enes Gümüş</text>
+  <text x="52" y="198" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" fill="url(#accent)">Building practical software.</text>
+  <text x="52" y="241" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#A9BED0">Web applications · Automation · Business tools</text>
+  <g transform="translate(52 291)">
+    <rect width="169" height="35" rx="17.5" fill="#54E3C2" fill-opacity=".09" stroke="#54E3C2" stroke-opacity=".28"/>
+    <circle cx="19" cy="17.5" r="4" fill="#54E3C2"/>
+    <text x="32" y="23" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#B8F3E6">Build. Learn. Iterate.</text>
+  </g>
+  <g fill="none" stroke-width="1.5">
+    <rect x="892" y="87" width="230" height="206" rx="14" fill="#0B1220" fill-opacity=".7" stroke="#36576E"/>
+    <path d="M892 125H1122" stroke="#36576E"/>
+    <circle cx="912" cy="107" r="3" fill="#54E3C2" stroke="none"/>
+    <circle cx="925" cy="107" r="3" fill="#64AEFF" stroke="none"/>
+    <circle cx="938" cy="107" r="3" fill="#667C91" stroke="none"/>
+    <path d="M956 167L933 190L956 213M1059 167L1082 190L1059 213M1023 155L994 227" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M930 257H985M998 257H1040M1053 257H1083" stroke="#36576E" stroke-width="4" stroke-linecap="round"/>
+    <path d="M863 156H840V249H863M1150 130H1170V224H1150" stroke="#54E3C2" stroke-opacity=".2"/>
+  </g>
+</svg>
